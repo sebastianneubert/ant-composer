@@ -10,8 +10,5 @@
             "homepage": "http://ant.apache.org/contributors.html"
         }
     ],
-    "require": {
-        "java": ">=1.6"
-    },
     "bin": ["bin/ant"]
 }
