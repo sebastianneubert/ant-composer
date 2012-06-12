@@ -1,0 +1,17 @@
+{
+    "name": "matthijsvandenbos/ant-composer",
+    "description": "Pure Java build tool, simpler and easier to use than GNU Make. Also it runs many tasks including the javac compiler inside the same VM",
+    "keywords": ["build", "tool", "task"],
+    "homepage": "http://ant.apache.org/",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Ant Contributors",
+            "homepage": "http://ant.apache.org/contributors.html"
+        }
+    ],
+    "require": {
+        "java": ">=1.6"
+    },
+    "bin": ["bin/ant"]
+}
